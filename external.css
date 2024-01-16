@@ -1,0 +1,26 @@
+#main
+{
+  background-color: #33FFFF;
+}
+#one
+{
+  float: left;
+  width: 1000px;
+  height: 200px;
+  background-color: #CCCCCC;
+}
+#two
+{
+  float: left;
+  width: 1000px;
+  height: 200px;
+  background-color: #CFFFCC;
+}
+#three
+{
+width: 1000px;
+background-color: #33FFFF;
+height: auto;
+float: left;
+
+}
